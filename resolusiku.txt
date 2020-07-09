@@ -1,7 +1,8 @@
 Yudo Dendy Resolusi
-1.Kuliah
-2.Kerja
-3.Programmer
-4.Sukses Dunia Akhirat
-5.Punya usaha sendiri
-6.Punya startup IT sendiri
+
+-Kerja
+-Programmer
+-Sukses Dunia Akhirat
+-Punya usaha sendiri
+-Punya startup IT sendiri
+-Naik haji
